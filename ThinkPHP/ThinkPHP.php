@@ -12,6 +12,7 @@
 
 // ThinkPHP 入口文件
 // echo test
+// echo 1111
 //记录开始运行时间
 $GLOBALS['_beginTime'] = microtime(TRUE);
 // 记录内存初始使用
